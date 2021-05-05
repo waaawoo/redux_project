@@ -9,3 +9,11 @@ reduxのテンプレートとreactのアプリケーションを同時に作成�
 ## 必要なツールをインストールする
 imp install axios
 Chromeの拡張機能「Redux DevTools」
+
+## counterSlice
+Storeの中のあるsliceの部分
+stateやreducerがある
+
+## dispatch
+ユーザーのアクションによってstoreへアクションを伝達する
+useDispatchをインポートしてdispatch(関数)でアクションを渡す
