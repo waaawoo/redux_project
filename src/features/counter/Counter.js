@@ -8,6 +8,7 @@ import {
   incrementIfOdd,
   selectCount,
 } from './counterSlice';
+// CSSの読み込み
 import styles from './Counter.module.css';
 
 export function Counter() {
