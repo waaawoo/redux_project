@@ -17,3 +17,10 @@ stateやreducerがある
 ## dispatch
 ユーザーのアクションによってstoreへアクションを伝達する
 useDispatchをインポートしてdispatch(関数)でアクションを渡す
+
+## CSSの取り扱い
+同階層に〇〇module.cssを作成し
+使用するファイルでインポートする
+<className={インポート名.定義したいクラス}>で反映する
+
+
